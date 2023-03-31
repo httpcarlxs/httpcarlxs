@@ -1,3 +1,3 @@
-### Hi there! I'm Carlos :)
-- I'm a Computer Science student at the Federal University of Campina Grande - UFCG
-- Currently, I am studying abroad in the Hochschule Koblenz, in Germany
+### Hi! I'm Carlos :)
+- Estudante de Ciência da Computação na Universidade Federal de Campina Grande (UFCG)
+- Pesquisador no Laboratório de Sistemas Distribuídos (LSD-UFCG)
